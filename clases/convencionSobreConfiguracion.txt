@@ -1,0 +1,23 @@
+# existen dos tipos de framework.
+
+# los que trabajan bajo convencion
+# los que trabajan bajo configuracion
+
+# podemos pensar en los framework por convencion como aquellos que trabajan con decisiones que fueron creadas desde el diseño del framework
+# el como se usara como se establecen los archivos. se establece principalmente en convenciones de trabajo
+# y aunque normalmente estas decisiones se pueden modificar suele ser complicado realizarlo.
+
+# los framework por configuracion al contrario no toman deciciones por nosotros no toman convenciones previas y eres libre de configurarlo como te parezca.
+
+# - en desventaja los framework de configuracion hay que editar muchos archivos y un mal paso puede causar bugs en la app.
+# - ruby on rails es un framework de convencion sobre configuracion.
+# - hay que configurarlo poco.
+# - menos margen de error.
+# - no se escribe tantos archivos de configuracion
+# - se vuelve mas productivo asi el framework.
+# sin embargo la desventaja de este framework de convencion es que tienes que aprendar todas
+# las convenciones cosas como colocarle el mismo nombre a una vista que a la accion de un controlador.
+# manejo de llaves primarias, entre muchas otras.
+
+# - es bueno porque se puede crear app webs rapidas y buenas.
+# - lo malo es que no sabes que esta sucediendo a veces.
